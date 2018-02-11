@@ -1,0 +1,9 @@
+{
+  "name": "apollo",
+  "version": "1.0.0",
+  "description": "A simple file server",
+  "main": "apollo.js",
+  "repository": "git@github.com:caonUlisses/apollo.git",
+  "author": "Ulisses caon",
+  "license": "MIT"
+}
